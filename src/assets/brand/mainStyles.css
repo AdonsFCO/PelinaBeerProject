@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Oswald:wght@700&display=swap');
+
+:root {
+    --Font-Titles-color: black;
+    --Font--Titles: 'Oswald', sans-serif; 
+    --Font--Items: 'Noto Serif', serif;
+    --Background-Primary: #fa320a;
+    --Background-Primary-darker: #B42104;
+    --Background-Secondary:#f7921e;
+    --Background-Alternative: #0D759D; 
+  
+  }
+  body {
+    background-color: black;
+  }
+  
+
+  h1,h2,h3,h4,h5,h6{
+
+    font-family: var(--Font--Titles);
+    font-weight: bolder;
+    color: var(--Font-Titles-color);
+    text-decoration: inherit !important;    
+    
+  
+  }
+  *{
+    font-family: var(--Font--Titles);
+  }

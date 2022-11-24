@@ -1,0 +1,8 @@
+@import url("/src/assets/brand/mainStyles.css");
+.pagination-group
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--Background-Primary);
+}

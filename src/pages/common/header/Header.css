@@ -1,0 +1,15 @@
+@import url("/src/assets/brand/mainStyles.css");
+header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: var(--Background-Primary);
+}
+
+.Logo
+{   
+
+    width: 100px;
+}

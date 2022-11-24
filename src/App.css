@@ -1,0 +1,16 @@
+@import url(/src/assets/brand/mainStyles.css);
+
+.App
+{
+  width: 100vw;
+}
+
+p, label, input{
+  font-family: var(--Font--Items);
+}
+
+body{
+  margin: 0;
+  padding: 40px;
+  
+}

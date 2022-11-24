@@ -1,0 +1,19 @@
+@import url("/src/assets/brand/mainStyles.css");
+nav{
+    background-color: var(--Background-Primary-darker);
+
+}
+.popCornIcon{
+    width: 60px;
+    height: 60px;
+    
+}
+.nav-item
+{
+    display: flex;
+    flex-direction: column;
+}
+.nav-item:hover{
+    background-color:var(--Background-Primary) !important;
+    color: white !important;
+}
